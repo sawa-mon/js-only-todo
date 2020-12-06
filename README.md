@@ -1,2 +1,2 @@
-# js-only-todo
+# react-js-plactice
 Created with CodeSandbox
